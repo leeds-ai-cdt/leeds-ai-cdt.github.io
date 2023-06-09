@@ -9,6 +9,7 @@ This year we met with three other CDTs doing work in AI for medicine in York. St
     <th><img  src="/images/JointConf1.png" style="max-width: 95%;"></th>
     <th><img  src="/images/JointConf2.png" style="max-width: 95%;"></th>
     <th><img  src="/images/JointConf3.png" style="max-width: 95%;"></th>
-    <th><img  src="/images/JointConf4.png" style="max-width: 95%;"></th>
   </tr>
 </table>
+
+<img  src="/images/JointConf4.png" style="max-width: 50%;">
