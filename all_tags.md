@@ -1,5 +1,5 @@
 ---
-layout: all_tags_page
+layout: tagpage
 title: "Tags"
 tags:
 - Conferences
