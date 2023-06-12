@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="post">
+{% for tag in site.tags %}
+  <h1>Tag: {{ tag }}</h1>
+  <ul>
+  {% for post in site.tags[tag] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+      {{ post.description }}
+    </li>
+  {% endfor %}
+  </ul>
+  </div>
+  <hr>
+{% endfor %}
