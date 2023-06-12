@@ -1,18 +1,6 @@
----
-layout: default
----
-<div class="post">
-{% capture _site_tags %}
+{% capture count_tags_splittable_str %}
 {% for tag in site.tags %}
-  <h1>Tag: {{ tag }}</h1>
-  <ul>
-  {% for post in site.tags[tag] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
-      {{ post.description }}
-    </li>
-  {% endfor %}
-  </ul>
-{% endfor %} 
+    {{ tag | last | size | prepend:"000000" | slice:-6,6 }}:::{{ tag | first }}
+    {% unless forloop.last %}###{% endunless %}
+{% endfor %}
 {% endcapture %}
-</div>
-<hr>
