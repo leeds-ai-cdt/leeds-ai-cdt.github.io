@@ -6,11 +6,7 @@ layout: default
   {% for publication in site.publications %}
     <article class="publication">
 
-      <h1><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title }}</a></h1>
-
-      <div class="entry">
-        {{ publication.excerpt }}
-      </div>
+      <h2><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title }}</a></h2>
 
       <a href="{{ site.baseurl }}{{ publication.url }}" class="read-more">Read More</a>
     </article>
