@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="publications">
-  {% for publication in site.publications %}
+  {% for publication in site.publications reversed %}
     <article class="publication">
 
       <h2><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title }}</a></h2>
