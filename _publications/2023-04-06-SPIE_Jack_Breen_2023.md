@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: publication
 title: Efficient subtyping of ovarian cancer histopathology whole slide images using active sampling in multiple instance learning – Jack Breen 2023
 tags:
 - Conference_Publication
