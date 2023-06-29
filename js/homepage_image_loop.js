@@ -1,6 +1,6 @@
 const photos = [
-  '../images/xmas_2022_1',
-  '../images/xmas_2021_1',
+  '../images/xmas_2022_1.png',
+  '../images/xmas_2021_1.png',
   '../images/CDT_cover.jfif'
 ];
 
