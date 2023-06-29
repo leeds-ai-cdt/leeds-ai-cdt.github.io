@@ -1,6 +1,6 @@
 .photo-container {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   margin: 0 auto; /* Center horizontally */
   display: flex;
   align-items: center; /* Center vertically */
@@ -10,11 +10,11 @@
 }
 
 #current-photo {
-  position: absolute;
+/*   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
-  max-width: 200px;
-  max-height: 200px;
+  transform: translate(-50%, -50%); */
+  max-width: 400px;
+  max-height: 400px;
   object-fit: contain; /* Maintain aspect ratio */
 }
