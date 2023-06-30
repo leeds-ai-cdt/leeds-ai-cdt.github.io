@@ -1,7 +1,10 @@
 const photos = [
   '../images/xmas_2022_1.png',
   '../images/xmas_2021_1.png',
-  '../images/CDT_cover.jfif'
+  '../images/CDT_cover.jfif',
+  '../images/Cohort3Walk.jpg',
+  '../images/Hiking.jpg',
+  '../images/Kayaking1.jpg'
 ];
 
 const photoContainer = document.getElementById('photo-container');
@@ -16,4 +19,4 @@ function displayNextPhoto() {
 
 displayNextPhoto(); // Display the first photo immediately
 
-setInterval(displayNextPhoto, 2000); // Change photo every 2 seconds (2000 milliseconds)
+setInterval(displayNextPhoto, 3000); // Change photo every 2 seconds (2000 milliseconds)
