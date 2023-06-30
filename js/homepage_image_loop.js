@@ -4,7 +4,9 @@ const photos = [
   '../images/CDT_cover.jfif',
   '../images/Cohort3Walk.jpg',
   '../images/Hiking.jpg',
-  '../images/Kayaking1.jpg'
+  '../images/Kayaking1.jpg',
+  '../images/TuringConf.jpg',
+  '../images/TuringConf2.jpg'
 ];
 
 const photoContainer = document.getElementById('photo-container');
