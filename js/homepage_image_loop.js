@@ -6,7 +6,8 @@ const photos = [
   '../images/Hiking.jpg',
   '../images/Kayaking1.jpg',
   '../images/TuringConf.jpg',
-  '../images/TuringConf2.jpg'
+  '../images/TuringConf2.jpg',
+  '../images/AllanBBQ.jpeg'
 ];
 
 const photoContainer = document.getElementById('photo-container');
