@@ -23,9 +23,9 @@ For more detailed insights into the initiatives undertaken and the impact they h
 
 <table>
   <tr>
-    <th><img  src="/images/LeedsLive020823_1.png" style="max-width: 95%;"></th>
-    <th><img  src="/images/LeedsLive020823_2.png" style="max-width: 95%;"></th>
-    <th><img  src="/images/LeedsLive020823_3.png" style="max-width: 95%;"></th>
+    <th><img  src="/images/LeedsLive020823_1.png" style="width: 300px;"></th>
+    <th><img  src="/images/LeedsLive020823_2.png" style="width: 300px;"></th>
+    <th><img  src="/images/LeedsLive020823_3.png" style="width: 400px"></th>
   </tr>
 </table>
 
