@@ -1,7 +1,6 @@
 ---
 layout: publication
-title: A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of
-Laryngeal Cancer – Mary Paterson 2023
+title: A Pipeline to Evaluate the Effects of Noise on Machine Learning Detection of Laryngeal Cancer – Mary Paterson 2023
 tags:
 - Conference_Publication
 ---
