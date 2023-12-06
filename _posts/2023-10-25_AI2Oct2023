@@ -1,0 +1,28 @@
+---
+layout: post
+title: AI^2 Forum November 2023
+tags:
+- AI_squared
+---
+
+### From Medical Doctor to AI Entrepreneur – What's Next for Clinical AI?
+
+We are thrilled to share the highlights from our recent AI forum held on Wednesday, November 29th. The event, featuring Dr. Keith Tsui from medwise.ai, blended an insightful talk about using AI in a medical setting and challenges faced by startups, and engaging discussions about the dangers of modern chatbots, drawing a diverse crowd eager to discuss the aforementioned topics.
+
+Dr. Keith Tsui spoke very well, sharing his journey from practicing doctor where he was frustrated with the current system. One poignant story he told, from early in his career was when a man came into the hospital to get a scan. Keith recalled how he heard the man telling his family that he was feeling fine and will be out very soon. Only to then visit the radiology department and see late-stage pancreatic cancer on the scan. This drove him to join the Cambridge Judge Entrepreneurship Centre looking to create a technological product to improve the medical system. From here he talked about early attempts to get AI assistive technologies into doctors hands prior to the release of large language models (LLMs) and how the medical landscape is slowly changing. Now he is working on creating a LLM to search through official medical documents and guidelines to provide better assistance to doctors.
+
+Post-presentation, we facilitated lively group discussions on the critical topic of misinformation in Large Language Models (LLMs), fostering a rich exchange of perspectives and ideas. We split into groups with each group focusing on a different large language model, seeking to find blind spots and dangerous misinformation. Certain prompts were found to be particularly effective at producing misinformation, such as through the use of leading questions (asking if men’s football is more interesting than women’s football generated a highly opinionated response), discussing scientific mechansims (such as asking why the atmosphere stays around the earth led to the chatbot arguing that air pressure was one of the forces keeping air down which is the opposite of true) and asking for one word (yes/no) answers on controversial and sensitive topics generated disturbing answers. Many light hearted findings were found with comical chatbots too.
+
+The event was well attended with a turnout of over 20 attendees in person, a mix of students, academics, and a couple of attendees from outside of the university, and more online via Teams.
+ 
+Thanks to Allan and Alex for hosting and to Dr. Keith Tsui for presenting! We are committed to continuously improving and expanding our events, ensuring they remain a cornerstone for AI discussion and networking. Stay tuned for our upcoming events and join us in shaping the future of AI!
+
+<table>
+  <tr>
+    <th><img src="/images/AI2Nov2023.jpg" style="max-width: 95%;" /></th>
+  </tr>
+</table>
+
+---
+
+*Blog written by: Samuel Llanwarne*
