@@ -17,8 +17,8 @@ However, LUS images are difficult for doctors to read and understanding them tak
 We built an artificial intelligence (AI) system which can detect A-lines, B-lines, and other features in LUS images of a realistic lung model. The AI can draw around these features, allowing doctors to interpret ultrasound images easier and faster. We can also use AI to measure the amount of B-lines in the lung, creating a new metric called the B-Line Artefact Score (BLAS), which may be linked to disease severity. 
 Our AI system is accurate, with 74% similarity between LUS images labelled by the AI and by doctors. It is also fast enough to work on live video from ultrasound machines, potentially helping the doctor assess the patient at the bedside. 
 
-<video width="1920" height="1080" controls>
-  <source src="Lewis_Howell_live_us_segmentation.mp4" type="video/mp4">
+<video width="640" height="480" controls>
+  <source src="/images/Lewis_Howell_live_us_segmentation.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 
