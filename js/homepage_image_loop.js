@@ -7,7 +7,8 @@ const photos = [
   '../images/Kayaking1.jpg',
   '../images/TuringConf.jpg',
   '../images/TuringConf2.jpg',
-  '../images/AllanBBQ.jpeg'
+  '../images/AllanBBQ.jpeg',
+  '../images/thumbnail_CDT_event-201-HIGH-res.jpg'  
 ];
 
 const photoContainer = document.getElementById('photo-container');
