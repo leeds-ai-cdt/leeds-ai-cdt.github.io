@@ -14,7 +14,7 @@ Sessions were delivered by Victoria Moglia, Morgan Thomas, Aron Syversen, Oliver
   <tr>
     <th><img  src="/images/morganlecturing.jpg" style="max-width: 95%;"></th>
     <th><img  src="/images/TitusSalt.png" style="max-width: 95%;"></th>
-    <th><img  src="/images/TitusSalt2.png" style="max-width: 95%;"></th>
+    <th><img  src="/images/TitusSalt2.png.jpg" style="max-width: 95%;"></th>
   </tr>
 </table>
 
