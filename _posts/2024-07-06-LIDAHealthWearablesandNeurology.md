@@ -5,7 +5,6 @@ tags:
 - Conferences
 ---
 
-## LIDA Health Technical Challenges in AI for EHRs and Wearables: Insights from Eiman Kanjo, Max Little, and David Wong
 
 On Friday, 5th July, researchers and enthusiasts in the health technology sector gathered for a series of talks by experts in the field. The event featured presentations by Eiman Kanjo from Nottingham Trent University, Max Little from the University of Birmingham, and David Wong from the University of Leeds. Each speaker shared their unique insights and research, offering a glimpse into the future of health technology.
 
