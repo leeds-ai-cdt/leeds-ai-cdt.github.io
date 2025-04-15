@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="profiles">
+  {% for profile in site.profiles %}
+    <article class="profile">
 
-      <h1><a href="{{ site.baseurl }}{{ profile.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ profile.url }}">{{ profile.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {{ profile.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ profile.url }}" class="read-more">Read More</a>
