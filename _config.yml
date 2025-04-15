@@ -88,3 +88,8 @@ exclude:
 collections:
   publications:
     output: true
+
+collections:
+  profiles:
+    output: true
+
