@@ -3,17 +3,19 @@ layout: default
 ---
 
 <article class="profile-detail" style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 2rem;">
-  {% if page.image %}
-    <img src="{{ page.image }}" alt="{{ page.title }}" style="width: 200px; height: auto; border-radius: 10px;">
-  {% endif %}
 
-  <div>
-    <h1>{{ page.title }}</h1>
+  <div style="flex-shrink: 0; text-align: center;">
+    <h1 style="margin: 0;">{{ page.title }}</h1>
     {% if page.role %}
-      <h3 style="color: #555;">{{ page.role }}</h3>
+      <h3 style="margin: 0; color: #666;">{{ page.role }}</h3>
     {% endif %}
-    <div class="profile-bio">
-      {{ content }}
-    </div>
+    {% if page.image %}
+      <img src="{{ page.image }}" alt="{{ page.title }}" style="margin-top: 0.5rem; width: 150px; height: auto; border-radius: 10px;">
+    {% endif %}
   </div>
+
+  <div class="profile-bio" style="flex: 1;">
+    {{ content }}
+  </div>
+
 </article>
