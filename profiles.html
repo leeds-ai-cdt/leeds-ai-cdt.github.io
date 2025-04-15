@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="profiles">
+  {% for profile in site.profiles %}
+    <article class="profile">
+
+      <h1><a href="{{ site.baseurl }}{{ profile.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ profile.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
