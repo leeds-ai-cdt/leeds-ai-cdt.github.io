@@ -2,10 +2,9 @@
 title: Sashi Kiran Mahapatra
 role: PhD Student
 layout: profile
-image: "C:\Users\sc22skm\Downloads\pro-AiACw8MR.jpeg"
+image: /profile_images/placeholder.jpg
 ---
 
-Project description
 Heart failure is often diagnosed too late and has a high death rate—over 50% of patients die within five years of diagnosis. 
 Currently, it’s detected using a finger-prick blood test, but this test usually only shows results when the disease has already progressed. 
 Not all patients get this test early enough.
