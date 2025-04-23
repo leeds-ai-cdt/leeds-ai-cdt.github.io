@@ -2,7 +2,7 @@
 title: Victoria Moglia
 role: PhD Student
 layout: profile
-image: /profile_images/taz.jpg
+image: /profile_images/Taz.jpg
 ---
 
 Victoria is a PhD student focusing on the early detection of upper GI cancers from routine blood tests measured in UK primary care data.
