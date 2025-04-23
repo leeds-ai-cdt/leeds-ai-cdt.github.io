@@ -4,6 +4,7 @@ role: PhD Student
 layout: profile
 image: /profile_images/mary-paterson.jpg
 ---
+**AI Analysis of Voice to Aid Laryngeal Cancer Diagnosis**
 
 One of the first symptoms of throat cancer can be a change in how someone speaks. But, this can also be a symptom of many other, non-cancer, diseases. We want to look at if artificial intelligence (AI) is able to find the throat cancer from recordings of people speaking. 
 
