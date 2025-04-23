@@ -2,7 +2,7 @@
 title: Allan Pang
 role: PhD Student
 layout: profile
-image: /profile_images/placeholder.jpg
+image: /profile_images/allan_pang_pic.jpeg
 ---
 
 Bedside monitoring can predict most hospital deaths. Currently, scoring systems predict when death may occur. These systems do not consider vital sign trends. We can use AI to find patterns in trends using hospital data.  We found that models using data from different hospitals can alter the model prediction.  Overall, we have found that these models can identify more patient deaths and find them earlier. 
