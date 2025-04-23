@@ -5,7 +5,17 @@ layout: profile
 image: /profile_images/lewis_staff_picture_cropped.jpg
 ---
 
-I am a PhD student working on focussed ultrasound for treating thyroid nodules. My research is on AI and ultrasound imaging, aiming to make focused ultrsaound treatment faster, safer and more effective. 
+## About me
+
+I am a PhD student working on focussed ultrasound for treating thyroid nodules. My research is on AI and ultrasound imaging, aiming to make focused ultrsaound treatment faster, safer and more effective. Before moving to Leeds I studied for a Master's degree in Natural Sciences at the University of Exeter.
+
+## Research title
+
+AI-integrated treatment planning and real-time guidance for Ultrasound Guided High Intensity Focused Ultrasound (USgHIFU) ablation of thyroid nodules
+
+## Simple title
+
+Using AI and focused ultrasound to treat thyroid nodules  
 
 ## Plain English Summary
 Your thyroid is an important organ in your neck, which is found at the base of the neck, just below the Adam’s apple. Thyroid nodules are lumps that form in the thyroid. Most thyroid nodules aren't serious and don't cause symptoms. Some thyroid nodules, however, may become large enough to be visible or make it difficult to swallow or breathe. 
