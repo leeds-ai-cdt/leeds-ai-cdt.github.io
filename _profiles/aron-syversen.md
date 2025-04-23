@@ -2,7 +2,7 @@
 title: Aron B. Syversen
 role: PhD Student
 layout: profile
-image: /profile_images/aronsyversen.jpg
+image: /profile_images/aronsyversen.jpeg
 ---
 
 Abdominal surgery is the most common treatment for many types of abdominal cancers. After abdominal surgery, very few patients die but a large number have poor outcomes like infections. As a result, many patients need to return to hospital after being sent home.
