@@ -1,5 +1,5 @@
 ---
-title: Allan
+title: Allan Pang
 role: PhD Student
 layout: profile
 image: /profile_images/placeholder.jpg
