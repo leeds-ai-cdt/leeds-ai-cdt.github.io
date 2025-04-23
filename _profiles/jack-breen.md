@@ -1,6 +1,6 @@
 ---
 title: Jack Breen
-role: PhD Student
+role: Alumnus
 layout: profile
 image: /profile_images/JackBreen.jpeg
 ---
