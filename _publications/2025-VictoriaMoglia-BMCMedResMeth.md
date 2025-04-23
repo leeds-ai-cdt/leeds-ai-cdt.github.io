@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Artificial intelligence methods applied to longitudinal data from electronic health records for prediction of cancer: a scoping review - Victoria Moglia
+title: Artificial intelligence methods applied to longitudinal data from electronic health records for prediction of cancer\: a scoping review - Victoria Moglia
 tags:Journal_article
 ---
 
