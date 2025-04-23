@@ -2,8 +2,6 @@
 layout: publication
 title: Artificial intelligence methods applied to longitudinal data from electronic health records for prediction of cancer: a scoping review
 tags:Journal_article
-- 
-- 
 ---
 
 # Artificial intelligence methods applied to longitudinal data from electronic health records for prediction of cancer: a scoping review
