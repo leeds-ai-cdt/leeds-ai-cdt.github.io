@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: Machine Learning Approaches to the Early Detection of Pancreatic Cancer from Time-Series Primary Care Data
+title: "Machine Learning Approaches to the Early Detection of Pancreatic Cancer from Time-Series Primary Care Data"
 tags: Conference_publication
 - 
 - 
